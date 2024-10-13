@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.head__item{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17.07px;
+    text-align: left;
+    background: #FFC700;
+    
+}
